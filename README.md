@@ -6,15 +6,18 @@ This repository contains five sets of SQL questions and solutions based on SQL S
 
 ## Folder Structure
 
-- `src/`
-  - `question_1.sql`
-  - `question_2.sql`
-  - `question_3.sql`
-  - `question_4.sql`
-  - `question_5.sql`
-- `README.md`
-
----
+```text
+SQL_Assignment/
+│
+├── src/
+│   ├── question_1.sql
+│   ├── question_2.sql
+│   ├── question_3.sql
+│   ├── question_4.sql
+│   └── question_5.sql
+│
+└── README.md
+```
 
 ## Task 1: Ecommerce Database
 
